@@ -1,12 +1,12 @@
-### Hi there 👋
-<h1 align="center">HEYA!!! </h1>
+
+<h1 align="center">Hi there 👋0</h1>
   
 <!-- ![code](https://user-images.githubusercontent.com/85511676/122277978-1be8ea00-cf04-11eb-9bca-e5b93da487da.gif)
  -->
   
 
 #  About Me:
-🔭 I’m currently working on my programming skills<br>👯 I’m looking for internship<br><!-- 🤝 I’m looking for help with<br> -->🌱 I’m currently solving DSA questions<br>⚡ Fun fact: (Fall❌)Rise in love with coding<br>😄 Pronouns: She/her<br>📫 How to reach me kamverma2301@gmail.com
+🔭 I’m currently working on my programming skills<br>👯 I’m looking for internship<br><!-- 🤝 I’m looking for help with<br> -->🌱 I’m currently solving DSA questions<br>⚡ Fun fact: (Fall❌)Rise in love with coding<br>😄 Pronouns: He/his/him<br>📫 How to reach me govindagra2002@gmail.com
 
 
 ## 🌐 Socials:
@@ -22,8 +22,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KAMYAVERMA&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-![](https://gtce.itsvg.in/api?username=KAMYAVERMA23)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
