@@ -13,6 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govind-agarwal-4121301b4/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Govindaga159) 
 
 # 💻 Tech Stack:
+
 1. **Frontend Technologies**:
    - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
    - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
@@ -29,6 +30,11 @@
    - ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
    - ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
    - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+
+4. **Operating Systems**:
+   - ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?style=flat-square&logo=ubuntu&logoColor=white)
+   - ![Windows](https://img.shields.io/badge/windows-%23117AC9.svg?style=flat-square&logo=windows&logoColor=white)
+   - ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=white)
 
 ---
 
